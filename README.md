@@ -2,7 +2,6 @@
 
 > **Repository:** `cyart-red-teaming`
 > **Folder:** `Week 2`
-> **Deadline:** Friday, 4:30 PM
 > **Submission Format:** GitHub Repository with Documentation (PDF, Notes, Screenshots) + Workflow with Steps
 
 ---
